@@ -18,3 +18,6 @@ SMTP_PASSWORD=MailPassword456!
 PRIVATE_KEY="-----BEGIN PRIVATE KEY-----
 MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBFakeKeyExampleOnly
 -----END PRIVATE KEY-----"
+
+pat=github_pat_11ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz1234567890
+stripe_key=sk_live_51QABCDEFGHijklmnopqrstuvwxyz1234567890
