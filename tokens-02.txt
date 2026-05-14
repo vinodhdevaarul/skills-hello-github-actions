@@ -1,0 +1,20 @@
+# Fake confidential configuration for testing secret scanners ONLY
+
+DB_HOST=prod-db.internal.example.com
+DB_PORT=5432
+DB_NAME=customer_data
+
+DB_USERNAME=admin_user
+DB_PASSWORD=SuperSecretPassword123!
+
+REDIS_PASSWORD=RedisSecret987!
+
+JWT_SECRET=my-ultra-confidential-jwt-secret-key
+
+API_KEY=sk-test-51QFakeKeyForSecretScanningOnly
+
+SMTP_PASSWORD=MailPassword456!
+
+PRIVATE_KEY="-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBFakeKeyExampleOnly
+-----END PRIVATE KEY-----"
