@@ -1,0 +1,8 @@
+# Fake AWS credentials for secret scanning tests ONLY
+# These are NOT real and cannot authenticate anywhere.
+
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# Optional fake session token
+AWS_SESSION_TOKEN=IQoJb3JpZ2luX2VjEOr//////////wEaCXVzLXdlc3QtMiJGMEQCIBFakeTokenExampleOnly
